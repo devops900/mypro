@@ -1,0 +1,4 @@
+andhra :telugu
+tamilnadu :tamil
+
+
